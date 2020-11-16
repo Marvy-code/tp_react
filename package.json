@@ -1,0 +1,19 @@
+{
+  "name": "duorly",
+  "version": "1.0.0",
+  "description": "First_TP",
+  "main": "serveur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "duorly_mass"
+  },
+  "author": "marvy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
